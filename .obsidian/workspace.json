@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c2a8bc0202d23a96",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "96c0f574324af513",
+            "id": "7d429115533c8388",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BelajarGit/Belajar Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BelajarGit/Welcome.md",
+                "file": "BelajarGit/Belajar Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BelajarGit/Welcome.md",
+                "file": "BelajarGit/Belajar Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BelajarGit/Welcome.md"
+                "file": "BelajarGit/Belajar Git.md"
               }
             }
           }
@@ -160,9 +159,11 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "ceada9105051ad47",
+  "active": "7d429115533c8388",
   "lastOpenFiles": [
-    "BelajarGit",
-    "BelajarGit/Welcome.md"
+    "BelajarGit/Belajar Git.md",
+    "BelajarGit/Welcome.md",
+    "Tanpa judul",
+    "BelajarGit"
   ]
 }
