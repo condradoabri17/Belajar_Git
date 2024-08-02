@@ -8,7 +8,7 @@ Berikut ini langkah-langkah Instalasi Git Bash:
 
 **Langkah 1:**
 Masuk ke Browser lalu ketikan "Download Git-scm for windows". lalu carilah sampai menemukan link pada gambar. Setelah menemukannya klik agar masuk ke dalam link tersebut.
-![[Belajar_Github/Asset/gambar1.jpg]]
+![[Belajar_Github/Asset/gambar1.JPG]]
 
 **Langkah 2:**
 Setelah masuk maka kita akan langsung diarahkan ke halaman download. klik tombol download sesuai dengan sistem operasi yang digunakan, dalam praktek ini, kita akan menggunakan lik download untuk windows.
